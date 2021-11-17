@@ -1,0 +1,22 @@
+{
+  "name": "graphqldemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruchikpravasi7/GraphqlDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruchikpravasi7/GraphqlDemo/issues"
+  },
+  "homepage": "https://github.com/ruchikpravasi7/GraphqlDemo#readme",
+  "dependencies": {
+    "node": "^17.1.0"
+  }
+}
